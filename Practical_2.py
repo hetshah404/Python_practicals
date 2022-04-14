@@ -1,7 +1,7 @@
 # Name : Het Shah
 # ID : 20CE127
 # Aim :  Study and Learn List, Tuple, Set and Dictionary
-# GITHUB LINK : 
+# GITHUB LINK : https://github.com/hetshah404/Python_practicals.git
 
 
 
